@@ -2,6 +2,7 @@ require('dotenv').config();
 
 
 let Person;
+let banda;
 
 const createAndSavePerson = (done) => {
   done(null /*, data*/);
